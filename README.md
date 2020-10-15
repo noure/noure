@@ -14,32 +14,3 @@ Currently I am focusing on devops topics, security more precisely.
 * nour.labihi@gmail.com
 * [@Nour_lab](https://twitter.com/nour_lab)
 
-
-
-## More About me ? : 
-
-#### Software development
-* Java/Kotlin with spring framwork, Quarks
-* Typescript with Angular, NodeJS
-
-#### Datebases
-* Mysql
-* MongoDB
-* Redis
-* Postgres
-* Oracle
-* ElasticSearch
-
-#### Message brokers
-* ActiveMQ
-* RabbitMQ
-* Kafka
-
-#### Key words
-* Agile
-* Craftsman software 
-* CI/CD Deploment
-* TDD/BDD/DDD
-* Clean code
-* SOLID
-* Design patterns
